@@ -6,7 +6,9 @@ The script will generate a random dungeon in Mermaid syntax, which can then easi
 # Example of use
 Terminal use:
 ![terminal recording](./tty.gif)
+
 Which gives something like:
+
 ![mermaid map](./mermaid.png)
 
 # See also
